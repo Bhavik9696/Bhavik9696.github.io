@@ -68,19 +68,6 @@ I'm particularly interested in:
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-### 🛒 Full-Stack Web Application
-
-A full-stack application built with modern web technologies.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB
-
-🔗 **[View Project](#)**
-
----
-
 ### 🌐 Personal Portfolio
 
 My personal developer portfolio showcasing my projects, skills, experience, and achievements.
@@ -118,19 +105,4 @@ I'm continuously strengthening my foundations in:
 - Operating Systems
 - Software Development
 
----
 
-## 📚 Currently Learning
-
-```text
-Java Backend Development
-        ↓
-Spring Boot
-        ↓
-REST APIs
-        ↓
-Database Design
-        ↓
-System Design
-        ↓
-Cloud & DevOps
