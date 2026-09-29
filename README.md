@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bhavik Rai</h1>
 
 <h3 align="center">
-  Software Developer • Full-Stack Developer • Java • MERN
+  Software Developer • Full-Stack Developer • AI Engineer
 </h3>
 
 <p align="center">
-  <a href="https://bhavikraidev.me">
+  <a href="https://bhavikrai-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Bhavik9696">
     <img src="https://img.shields.io/badge/GitHub-Bhavik9696-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -20,45 +20,57 @@
 
 ## 👨‍💻 About Me
 
-I'm **Bhavik Rai**, a Computer Science Engineering student and aspiring **Software Developer** who enjoys turning ideas into practical, scalable, and user-friendly applications.
+I'm **Bhavik Rai**, a final-year **Computer Science Engineering student** and **Software Developer** passionate about building AI-powered and full-stack applications.
 
-I work across the full development lifecycle — from building responsive frontend interfaces to developing backend APIs, designing databases, and integrating services.
+I enjoy designing complete software systems — from responsive React interfaces and REST APIs to AI pipelines, databases, deployment, and automation.
 
-I'm currently focused on strengthening my skills in **Java, Data Structures & Algorithms, Full-Stack Development, and Software Engineering**.
+My current areas of focus include:
 
-### What I enjoy building
+* 🤖 **Artificial Intelligence & Generative AI**
+* 🧠 **Retrieval-Augmented Generation (RAG)**
+* 🔀 **Multi-Agent AI Systems**
+* ⚛️ **React & Modern Frontend Development**
+* 🟢 **Node.js, Express.js & FastAPI**
+* ☕ **Java & Software Development**
+* 🐍 **Python & Machine Learning**
+* 🗄️ **MongoDB, MySQL & Firebase**
+* 🐳 **Docker, CI/CD & Cloud Deployment**
+* 🧩 **Data Structures & Problem Solving**
 
-* 🚀 Full-Stack web applications
-* ☕ Java-based applications and backend systems
-* ⚛️ Modern React applications
-* 🟢 REST APIs with Node.js & Express.js
-* 🗄️ Database-driven applications
-* 🤖 AI-powered software solutions
-* 🧠 DSA and problem-solving solutions
-
-> **Build. Learn. Improve. Repeat.**
+> **I build software that combines strong engineering fundamentals with practical AI.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,c,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,sql" />
 </p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Technologies:**
+`RAG` • `Prompt Engineering` • `Multi-Agent Orchestration` • `Groq LLaMA 3.3 70B` • `Mistral` • `scikit-learn` • `OpenCV` • `Tavily Search API`
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
+
+**Focus:** REST API Design • Authentication • Microservices • Real-Time Systems
 
 ### 🗄️ Databases
 
@@ -66,65 +78,125 @@ I'm currently focused on strengthening my skills in **Java, Data Structures & Al
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-### 🔧 Tools & Platforms
+### ☁️ DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vscode,postman,linux,vercel,netlify" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔍 ProjectLens AI
+## 🔍 ProjectLens AI
 
-**Requirement-to-Code Traceability Platform**
+### Requirement-to-Code Traceability & Project Analysis Platform
 
-An AI-powered platform that analyzes project requirements and GitHub repositories to identify the relationship between requirements and implementation.
+A **RAG-powered software analysis platform** that extracts requirements from SRS documents and verifies their implementation against real GitHub repositories.
 
-**Highlights:**
+**Key Features**
 
-* 🤖 AI-powered requirement extraction
+* 📄 AI-powered requirement extraction
 * 🔗 Requirement-to-code traceability
-* 📊 Traceability matrix & project coverage
-* 🧠 RAG-based repository analysis
+* 🧠 RAG-based document & code retrieval
+* 🔎 Semantic search and intelligent chunking
+* 🔐 Secret redaction for repository privacy
+* 📊 Traceability matrix
+* 🩺 Project health analysis
+* 🤖 AI Copilot
 * 📝 Evidence-based reports
-* 🔐 Repository privacy and secret protection
-* 🔗 GitHub & Slack integrations
+* 💳 Project-based payment & credit management
+* 📑 PDF report generation
 
-**Tech:** React • Node.js • Express • MongoDB • RAG • Gemini AI
+**Tech Stack**
 
----
+`React` `Node.js` `Express.js` `FastAPI` `MongoDB` `RAG` `Gemini AI`
 
-### 🏫 College Management Platform
-
-A full-stack college platform with authentication and role-based dashboards for students and administrators.
-
-**Tech:** React • Vite • Tailwind CSS • Firebase • Firestore
+🔗 **Live:** https://project-lens-ai-kappa.vercel.app/
 
 ---
 
-### 🏋️ Gym Buddy
+## 🧠 Career Recruit AI
 
-A full-stack fitness application designed to help users manage and track their fitness activities.
+### AI-Powered Campus Placement Platform
 
-**Tech:** React • Node.js • Express.js • MongoDB
+A full-stack placement platform designed around **Student, Admin, and Alumni portals**, serving 200+ students.
+
+**Key Features**
+
+* 🔐 JWT-based role authentication
+* 📊 Placement analytics dashboards
+* 🤖 Placement probability prediction
+* 📄 Automated resume parsing
+* 🧩 Skill-gap analysis
+* 🎯 Automated candidate shortlisting
+* 💬 TF-IDF FAQ chatbot
+* 🔔 Notification workflows
+* 📤 CSV/PDF report exports
+* 🐳 Dockerized services
+* ⚙️ GitHub Actions CI/CD
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `FastAPI` `Python` `scikit-learn` `Docker`
 
 ---
 
-### 🤖 ALLYVEX
+## 🆘 Silent Emergency Communication System
 
-An AI-powered strategic sales intelligence platform developed during a **24-hour hackathon**.
+### Real-Time Gesture-Based Emergency Alert Platform
 
-**Tech:** Python • FastAPI • React • LLaMA • Mistral • SSE
+An AI-powered emergency communication system using **computer vision and machine learning** for gesture-based SOS and fall detection.
+
+**Key Features**
+
+* ✋ Hand gesture recognition
+* 🚨 Real-time SOS detection
+* 🧍 Fall detection
+* 📡 FastAPI backend
+* 📱 SMS & email emergency alerts
+* 📊 Live monitoring dashboard
+* ⚡ Optimized ML inference pipeline
+
+**Tech Stack**
+
+`Python` `FastAPI` `React` `OpenCV` `Machine Learning`
 
 ---
 
-## 🧠 Data Structures & Algorithms
+## 🤖 ALLYVEX
 
-I regularly practice **Data Structures & Algorithms** to improve problem-solving, algorithmic thinking, and coding efficiency.
+### AI Sales Intelligence Engine
 
-### Currently practicing
+A multi-agent AI sales intelligence platform developed during a **24-hour hackathon**.
+
+The system uses specialized AI agents to analyze opportunities and generate sales verdicts.
+
+**Architecture**
+
+`Bull Agent` → `Bear Agent` → `Detective Agent` → `Orchestrator`
+
+**Key Features**
+
+* 🤖 Multi-agent AI orchestration
+* 🧠 Groq LLaMA 3.3 70B
+* 🔍 Mistral-powered analysis
+* 📡 Real-time SSE streaming
+* 📈 Confidence-based verdicts
+* ✉️ Automated outreach generation
+* ⚡ Low-latency AI responses
+
+**Tech Stack**
+
+`Python` `FastAPI` `React` `Groq LLaMA` `Mistral` `SSE`
+
+---
+
+# 🧠 Data Structures & Algorithms
+
+I regularly practice **Data Structures & Algorithms** to strengthen problem-solving and prepare for software engineering roles.
+
+### Topics
 
 * Arrays & Strings
 * Two Pointers
@@ -139,54 +211,59 @@ I regularly practice **Data Structures & Algorithms** to improve problem-solving
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 ### Bachelor of Engineering — Computer Science & Engineering
 
-**Visvesvaraya Technological University (VTU), Karnataka**
+**St Joseph Engineering College, Mangaluru**
 
-Currently pursuing my engineering degree with a focus on building strong foundations in:
+`2023 – 2027` • **CGPA: 8.53 / 10**
 
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Software Engineering
+Currently strengthening my foundations in:
+
+`OOP` • `DSA` • `DBMS` • `Operating Systems` • `Computer Networks` • `Software Engineering`
 
 ---
 
-## 🌐 Portfolio
+# 📜 Certifications
 
-Visit my portfolio to explore my projects, technical skills, experience, and achievements.
+### Introduction to Industry 4.0 & Industrial IoT
+
+**NPTEL / IIT Kharagpur**
+
+🏅 Elite • **82%** • 4 SWAYAM Credits
+
+### Project Management 101
+
+**Simplilearn SkillUp**
+
+Verified Certificate
+
+---
+
+# 📊 GitHub
 
 <p align="center">
-  <a href="https://bhavikraidev.me">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavik9696&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavik9696&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavik9696&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavik9696&theme=tokyonight&hide_border=true" />
+  <a href="https://bhavikrai-portfolio.netlify.app">🌐 Portfolio</a> •
+  <a href="https://github.com/Bhavik9696">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/">💼 LinkedIn</a>
+</p>
+
+<p align="center">
+  <b>Open to internships, full-time opportunities & hackathon collaborations 🚀</b>
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, recruiters, and people working on interesting software projects.
-
 <p align="center">
-  <a href="https://github.com/Bhavik9696">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://bhavikraidev.me">Portfolio</a>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  ⭐ If you find my projects interesting, feel free to explore my repositories!
 </p>
